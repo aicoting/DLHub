@@ -2,16 +2,16 @@
  * @Author: zhangting
  * @Date: 2025-09-17 15:53:59
  * @LastEditors: Do not edit
- * @LastEditTime: 2025-10-11 11:29:40
+ * @LastEditTime: 2025-10-11 11:30:47
  * @FilePath: /zhangting/DLHub/README.md
 -->
 # DLHub
 <div align="center">
-  <img src="./img/深度学习知识库封面.png" alt="Notion" width="45%">
+  <img src="./img/深度学习知识库封面.png" alt="Notion" width="100%">
 </div>
 前段时间机器学习知识库发出之后，受到很多同学的关注，大家一直催更深度学习知识库和大模型知识库，我也是通宵达旦系统的整理出了深度学习知识库，但是是一部分，包括深度学习概述、数学与理论基础、神经网络基础以及深度网络结构。
 <div align="center">
-  <img src="./img/深度学习知识库目录.png" alt="Notion" width="45%">
+  <img src="./img/深度学习知识库目录.png" alt="Notion" width="100%">
 </div>
 
 由于大家最近可能在金九银十的秋招阶段，很多同学急需，所以先放出来供有需要的同学参考，后续我会持续更新。
