@@ -5,9 +5,8 @@
  * @LastEditTime: 2025-10-11 11:33:30
  * @FilePath: /zhangting/DLHub/README.md
 -->
--->
 <p align="center">
-  <h2 align="center">AIHub</h2>
+  <h2 align="center">DLHub</h2>
   <p align="center">
     一个深度学习知识的最全八股！
     <br/>
